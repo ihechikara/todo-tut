@@ -1,0 +1,15 @@
+body{
+    background: black;
+    color: white;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.strike {
+    text-decoration: line-through;
+}
